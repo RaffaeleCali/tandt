@@ -66,9 +66,9 @@ Clonare la repo :
 git clone https://github.com/RaffaeleCali/tandt
 ```
 
-Nella cartella ProgwebRc installare tutte le dipendenze (SET 1),
-Nella cartella socket installare tutte le dipendenze (SET 2),
-Nella cartella react-travel-and-tourism installare tutte le dipendenze (SET 3),
+Nella cartella ProgwebRc installare tutte le dipendenze (SET 1).
+Nella cartella socket installare tutte le dipendenze (SET 2).
+Nella cartella react-travel-and-tourism installare tutte le dipendenze (SET 3).
 ```
 yarn add
 ```
