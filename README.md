@@ -1,2 +1,0 @@
-# tandt
- social media app
