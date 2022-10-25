@@ -1,4 +1,4 @@
-# tandt
+# TandT
  
  <p align="center">
   <a href="" rel="noopener">
@@ -18,16 +18,17 @@
 
 ## 🧐 Obiettivo <a name = "scopo"></a>
 L'obbiettivo è quello di sviluppare un social media che permette di creare un nuovo account , postare foto,avviare delle chat e seguire nuovi utenti.
-
+## Descrizione
+Il framework utilizzato per la realizzazione dell'applicazione (client) è React che permette una semplice gestione e riutilizzo di componenti, oltre alle funzioni native offerte dal framework. 
+Il server utilizza una'architettura REST realizzata utilizzando Express per gestire la comunicazione tra client e server
 ## ⛏️ Dipendenze <a name = "dipendenze"></a>
 
-- [NodeJs](https://nodejs.org/en/) v16.15.1
+- NodeJs  v16.15.1
 - yarn  1
 
 SET 1
 - bcrypt 5.0.1
 - cors 2.8.5
-- dotenv 16.0.1
 - express 4.18.1
 - fs 0.0.1-security
 - helmet ^4.4.1
@@ -50,7 +51,6 @@ SET 3
 - @testing-library/user-eventç ^13.5.0",
 - axios ^0.27.2
 - react ^18.2.0 
-- react-chat-engine ^1.11.23 
 - react-dom ^18.2.0
 - react-icons ^4.4.0 
 - react-router-dom ^6.3.0
