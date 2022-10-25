@@ -72,8 +72,8 @@ Nella cartella react-travel-and-tourism installare tutte le dipendenze (SET 3).
 ```
 yarn add
 ```
-Avviare prima il server (ProgwebRc),
-In seguito avviare le socket per la chat(socket)
+Avviare prima il server (ProgwebRc).
+In seguito avviare le socket per la chat(socket).
 In fine avviare il client (react-travel-and-tourism)
 ```
 yarn start
