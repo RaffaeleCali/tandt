@@ -24,6 +24,7 @@ L'obbiettivo è quello di sviluppare un social media che permette di creare un n
 - [NodeJs](https://nodejs.org/en/) v16.15.1
 - [Jquery](https://jquery.com/)
 - npm 8.11.0
+- yarn lockfile v1
 SET 1
 - bcrypt 5.0.1
 - cors 2.8.5
