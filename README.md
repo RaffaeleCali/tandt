@@ -72,6 +72,8 @@ Nella cartella react-travel-and-tourism installare tutte le dipendenze (SET 3).
 ```
 yarn add
 ```
+Nella cartella ProgwebRc configurare il .env  con il Mogodb (MONGO_URL = "IL VOSTRO DB")
+
 Avviare prima il server (ProgwebRc).
 In seguito avviare le socket per la chat(socket).
 In fine avviare il client (react-travel-and-tourism)
