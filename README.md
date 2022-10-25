@@ -22,8 +22,6 @@ L'obbiettivo è quello di sviluppare un social media che permette di creare un n
 ## ⛏️ Dipendenze <a name = "dipendenze"></a>
 
 - [NodeJs](https://nodejs.org/en/) v16.15.1
-- [Jquery](https://jquery.com/)
-- npm 8.11.0
 - yarn  1
 
 SET 1
