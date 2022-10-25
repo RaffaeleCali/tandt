@@ -24,7 +24,7 @@ Il server utilizza una'architettura REST realizzata utilizzando Express per gest
 ## ⛏️ Dipendenze <a name = "dipendenze"></a>
 
 - NodeJs  v16.15.1
-- yarn  1
+- yarn  
 
 SET 1
 - bcrypt 5.0.1
@@ -75,7 +75,13 @@ yarn add
 Nella cartella ProgwebRc configurare il .env  con il Mogodb (MONGO_URL = "IL VOSTRO DB")
 
 Avviare prima il server (ProgwebRc).
+```
+yarn start
+```
 In seguito avviare le socket per la chat(socket).
+```
+yarn start
+```
 In fine avviare il client (react-travel-and-tourism)
 ```
 yarn start
