@@ -47,11 +47,11 @@ SET 3
 - @material-ui/icons ^4.11.3
 - @testing-library/jest-dom ^5.16.4
 - @testing-library/react  ^13.3.0
-- @testing-library/user-event": "^13.5.0",
+- @testing-library/user-eventç ^13.5.0",
 - axios ^0.27.2
 - react ^18.2.0 
 - react-chat-engine ^1.11.23 
-- react-dom": "^18.2.0
+- react-dom ^18.2.0
 - react-icons ^4.4.0 
 - react-router-dom ^6.3.0
 - react-scripts 5.0.1
